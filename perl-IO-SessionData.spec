@@ -4,7 +4,6 @@
 #
 %define		pdir	IO
 %define		pnam	SessionData
-%include	/usr/lib/rpm/macros.perl
 Summary:	Supporting module for SOAP::Lite
 #Summary(pl.UTF-8):	
 Name:		perl-IO-SessionData
