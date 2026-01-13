@@ -8,7 +8,7 @@ Summary:	Supporting module for SOAP::Lite
 #Summary(pl.UTF-8):	
 Name:		perl-IO-SessionData
 Version:	1.03
-Release:	1
+Release:	2
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/IO/%{pdir}-%{pnam}-%{version}.tar.gz
